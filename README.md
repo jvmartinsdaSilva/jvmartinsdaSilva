@@ -14,4 +14,4 @@
       <img src="https://github.com/jvmartinsdaSilva/jvmartinsdaSilva/blob/main/react.svg" >
 </ul>
 -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmartinsdaSilva&langs_count=8) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmartinsdaSilva&langs_count=8)  -->
